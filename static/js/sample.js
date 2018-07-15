@@ -51,9 +51,13 @@ try {
 
         var data = [trace1, trace2];
 
+        X_min = Math.min(response['diabetes_X_test'])
+        X_max = Math.max(response['diabetes_X_test'])
+        
+
         var layout = {
             showlegend: false,
-            xaxis: { title: 'Data', range: [0, 0.1] },
+            xaxis: { title: 'Data', range: [X_min, X_max] },
             yaxis: { title: 'Observation' },
             autosize: false,
             height: 500,
