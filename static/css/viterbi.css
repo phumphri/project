@@ -7,12 +7,14 @@ body.banner
 body
 {
     background-color: #fffff0;  /* Ivory */
-    font-family: Verdana, Geneva, sans-serif
+    font-family: Verdana, Geneva, sans-serif, serif
 }
 
 h1, h2, h3, h4 {color: #990000;}  /* Cardinal */
 
 div.cardinal {background-color: #990000;}  /* Cardinal */
+
+.project_name {color: white; height: 60px; font-size: 28pt; }
 
 button.cardinal {color: #990000;}  /* Cardinal */
 

@@ -53,10 +53,7 @@ if __name__ == "__main__":
 
     if (hostname == 'XPS'):
         # Patrick's workstation
-        # app.run(debug=True)
-        print("Port", environ.get("PORT", "Not Found"))
-        app.run(debug=False, host='0.0.0.0', port=5000)
-
+        app.run(debug=True)
     elif (hostname == 'DESKTOP-S08TN4O'):
         # Patrick's Laptop
         app.run(debug=True)
