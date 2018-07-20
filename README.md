@@ -13,9 +13,9 @@
 </br>
 
 ## CREDIT: It's important
-<p>Your credit score is incredibly important and impacts your quality of life. Building credit and maintaining a high credit score is incredibly important as loans are necessary for many investments such as purchasing a home or a car. </p>
+<p>Your credit score is important and impacts your quality of life. Building credit and maintaining a high credit score is incredibly valuable as loans are necessary for investments such as purchasing a home or a car. </p>
 
-<p> Building great credit can be difficult as variables that are outside ones control such as age of credit history influence ones credit score. </p>
+<p> Building good credit can be difficult as variables deterministic of credit score such as age of credit limit are outside of ones control.  </p>
 
 <p> Herein we strive to unviel ones abilty to pay back thier loan by analyzing variables that are not dependenct upon credit score. </p>
 
