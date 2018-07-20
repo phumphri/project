@@ -1,4 +1,4 @@
-# Risky Business [![Risky Business]]
+# Risky Business <img src = "https://img.shields.io/badge/Credit%20Default-Predictor-red.svg">
 ### Team Members
 <p> Patrick Humphries </p>
 <p> Ritter Gustave </p>
