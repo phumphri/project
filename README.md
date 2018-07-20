@@ -20,5 +20,6 @@
 <p> Herein we strive to unviel ones abilty to pay back thier loan by analyzing variables that are not dependenct upon credit score. </p>
 
 <p> This exploration is an exercise for the Home Credit Default Risk competition on Kaggle sponsored by Home Credit Group. </p>
-<img src = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj8w-3b2KzcAhUS3Z8KHTvuAqUQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKaggle&psig=AOvVaw1cW8FdvHk2PTDPE3w1blj4&ust=1532142224808330"> <img src = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjli5r92KzcAhWUKn0KHfpdDW4QjRx6BAgBEAU&url=https%3A%2F%2Fpitchbook.com%2Fprofiles%2Fcompany%2F106960-06&psig=AOvVaw3y-yPwTVkIz10zdYSiIUQe&ust=1532142288684887">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png"> 
+<img src= "https://image.pitchbook.com/rTjD6D3GbnaTrBrOxkBswvYMfGU1503928190520_200x200">
 ## MORE STUFF
