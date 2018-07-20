@@ -12,6 +12,7 @@
 <br>
 </br>
 
+## CREDIT: It's important
 <p>Your credit score is incredibly important and impacts your quality of life. Building credit and maintaining a high credit score is incredibly important as loans are necessary for many investments such as purchasing a home or a car. </p>
 
 <p> Building great credit can be difficult as variables that are outside ones control such as age of credit history influence ones credit score. </p>
