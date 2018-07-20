@@ -8,7 +8,7 @@
 <br>
 </br>
 
-<img src= "https://cdn.dribbble.com/users/869467/screenshots/2662113/finance-at-your-fingertips.gif">
+<img src= "https://cdn.dribbble.com/users/869467/screenshots/2662113/finance-at-your-fingertips.gif" width="120" height="178">
 <br>
 </br>
 
@@ -20,6 +20,6 @@
 <p> Herein we strive to unviel ones abilty to pay back thier loan by analyzing variables that are not dependenct upon credit score. </p>
 
 <p> This exploration is an exercise for the Home Credit Default Risk competition on Kaggle sponsored by Home Credit Group. </p>
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png"> 
-<img src= "https://image.pitchbook.com/rTjD6D3GbnaTrBrOxkBswvYMfGU1503928190520_200x200">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png"width="120" height="178"> 
+<img src= "https://image.pitchbook.com/rTjD6D3GbnaTrBrOxkBswvYMfGU1503928190520_200x200"width="120" height="178">
 ## MORE STUFF
