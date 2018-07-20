@@ -12,7 +12,7 @@
 <br>
 </br>
 
-## CREDIT: It's important
+## CREDIT: A necessity in todays economic environment, hard to build.
 <p>Your credit score is important and impacts your quality of life. Building credit and maintaining a high credit score is incredibly valuable as loans are necessary for investments such as purchasing a home or a car. </p>
 
 <p> Building good credit can be difficult as variables deterministic of credit score such as age of credit limit are outside of ones control.  </p>
