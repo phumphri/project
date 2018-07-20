@@ -1,4 +1,4 @@
-# Risky Business <img src ="[![Inline docs](http://inch-ci.org/github/{ORG-or-USERNAME}/{REPO-NAME}.svg?branch=master)](http://inch-ci.org/github/{ORG-or-USERNAME}/{REPO-NAME})">
+# Risky Business <img src ="https://img.shields.io/badge/Credit%20Default-Predictor-red.svg">
 ### Team Members
 <p> Patrick Humphries </p>
 <p> Ritter Gustave </p>
